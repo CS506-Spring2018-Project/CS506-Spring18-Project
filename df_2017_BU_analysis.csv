@@ -1,52 +1,46 @@
 ,Property Name,Year Built,Property Uses,Water Intensity (gal/sf)_num,GHGI/GUI
-565,560 Harrison Ave,1902,Office,21.1,0.05329678696512868
-610,580 Harrison Ave,1887,Office,16.5,0.28644905026226003
-637,710 Albany Street,2000,Parking,,inf
-645,778-780 Harrison Avenue R (10 Stoughton),1959,Laboratory,46.3,inf
-649,801 Massachusetts Avenue (EPL),2007,Office,17.0,0.22377924563244642
-1636,10 Buick Street,2000,Residence Hall/Dormitory,39.2,0.092162500921625
-1637,100 Ashford Street,2002,Other - Stadium,3.7,0.12392251198221346
-1638,100 Bay State Road,2012,"Food Service, Office",33.0,0.1352265043948614
-1640,10-18 Buswell Street,1924,Multifamily Housing,65.5,0.06097499858003429
-1652,110-112 Cummington Street,1923,College/University,4.0,0.04651162790697675
-1654,111 Cummington Street (664-666 Comm. Ave),1911,College/University,11.6,0.0881803032059583
-1662,120 Ashford Street,1958,"Distribution Center, Office, Parking",5.6,0.09459701670882043
-1675,140 Bay State Road,1958,Residence Hall/Dormitory,42.7,0.08164363035606226
-1687,2 Cummington Street (23-25 Blandford Street),1905,Laboratory,11.6,0.15943956991176017
-1689,20-28 Cummington Street (24 Cummington St),1983,Laboratory,67.1,0.14664914813620297
-1692,213-217 Bay State Road,2003,Worship Facility,3.5,0.14416437774102006
-1694,22-24 Buswell Street,1914,Multifamily Housing,42.3,0.06806690003889537
-1696,233 Bay State Road,1968,College/University,5.4,0.18892240012414896
-1698,25 Buick Street,1928,"Office, Parking",10.7,0.09012539184952979
-1707,"285 Babcock, Case Center",1972,Indoor Arena,126.5,0.10899427499143215
-1709,300 Babcock Street,1986,College/University,3.4,0.10598477955165854
-1710,30-38 Cummington Street,1917,Laboratory,37.0,0.1371405541411316
-1712,33 Harry Agganis Way,2008,Residence Hall/Dormitory,30.7,0.13455487124043067
-1725,40-48 Buswell Street,1896,Residence Hall/Dormitory,44.1,0.0622506148523844
-1735,Hotel Commonwealth,2003,"Hotel, Parking",65.3,0.15246068586585831
-1737,512 Beacon Street,1926,Residence Hall/Dormitory,39.2,0.06632064590542099
-1738,514-522 Park Drive,1915,Residence Hall/Dormitory,31.9,0.06701075231223515
-1742,565-575 Commonwealth Avenue,1992,Residence Hall/Dormitory,50.0,0.10902528044656755
-1744,577-599 Commonwealth Avenue (595 Comm Ave),1996,"College/University, Office, Parking",17.0,0.18488275352047573
-1745,580 Commonwealth Avenue,2004,Multifamily Housing,51.9,0.1295672454003628
-1746,582-596 Commonwealth Avenue (590 Comm / 712 Bea),1983,Laboratory,15.5,0.11320235714814697
-1748,605-615 Commonwealth Avenue (2 Silber Way),1981,College/University,5.1,0.0944480055987539
-1749,610 Beacon Street (30 Bay State Road),1926,Residence Hall/Dormitory,40.5,0.07266432633710435
-1750,610 Commonwealth Avenue,2016,College/University,,inf
-1751,622-640 Commonwealth Avenue,1902,College/University,18.5,0.10664781539567862
-1753,631-639 Commonwealth Avenue,1957,College/University,15.5,0.16719866241070072
-1754,642-648 Beacon Street,1990,Office,22.9,0.13942917694956847
-1756,64-86 Cummington Street,1909,College/University,6.0,inf
-1757,660 Beacon Street,1990,Office,12.5,inf
-1758,664 Malvern Street,1962,Other - Stadium,9.1,
-1760,6-8 St. Mary's Street,1997,Laboratory,26.3,0.1364718854359192
-1762,700 Commonwealth Avenue,1966,"Parking, Residence Hall/Dormitory",75.0,0.07607945035523252
-1765,722-728 Commonwealth Avenue,1974,Residence Hall/Dormitory,69.7,0.06424670735624799
-1770,785 Commonwealth Avenue (1 University Road),1931,College/University,13.2,0.08897941680960549
-1773,855 Commonwealth Avenue,1919,College/University,0.5,0.09080835039537105
-1775,871 Commonwealth Avenue,1926,College/University,7.9,0.06571899870533572
-1776,881 Commonwealth Avenue,1915,"Medical Office, Office",14.4,0.09030726318012657
-1777,91 Bay State Road,1923,Residence Hall/Dormitory,45.5,0.08950948800572862
-1778,915 Commonwealth Avenue,2004,"Fitness Center/Health Club/Gym, Swimming Pool",48.3,0.12068499136478077
-1779,925 Commonwealth Avenue,2004,"Indoor Arena, Parking",45.7,0.14743014718096947
-1782,983-985 Commonwealth Avenue,1981,Office,5.8,0.06936037126715093
+565,560 Harrison Ave,1902,0,21.1,0.05329678696512868
+610,580 Harrison Ave,1887,0,16.5,0.28644905026226003
+649,801 Massachusetts Avenue (EPL),2007,0,17.0,0.22377924563244642
+1636,10 Buick Street,2000,1,39.2,0.092162500921625
+1637,100 Ashford Street,2002,2,3.7,0.12392251198221346
+1638,100 Bay State Road,2012,3,33.0,0.1352265043948614
+1640,10-18 Buswell Street,1924,4,65.5,0.06097499858003429
+1652,110-112 Cummington Street,1923,5,4.0,0.04651162790697675
+1654,111 Cummington Street (664-666 Comm. Ave),1911,5,11.6,0.0881803032059583
+1662,120 Ashford Street,1958,6,5.6,0.09459701670882043
+1675,140 Bay State Road,1958,1,42.7,0.08164363035606226
+1687,2 Cummington Street (23-25 Blandford Street),1905,7,11.6,0.15943956991176017
+1689,20-28 Cummington Street (24 Cummington St),1983,7,67.1,0.14664914813620297
+1692,213-217 Bay State Road,2003,8,3.5,0.14416437774102006
+1694,22-24 Buswell Street,1914,4,42.3,0.06806690003889537
+1696,233 Bay State Road,1968,5,5.4,0.18892240012414896
+1698,25 Buick Street,1928,9,10.7,0.09012539184952979
+1707,"285 Babcock, Case Center",1972,10,126.5,0.10899427499143215
+1709,300 Babcock Street,1986,5,3.4,0.10598477955165854
+1710,30-38 Cummington Street,1917,7,37.0,0.1371405541411316
+1712,33 Harry Agganis Way,2008,1,30.7,0.13455487124043067
+1725,40-48 Buswell Street,1896,1,44.1,0.0622506148523844
+1735,Hotel Commonwealth,2003,11,65.3,0.15246068586585831
+1737,512 Beacon Street,1926,1,39.2,0.06632064590542099
+1738,514-522 Park Drive,1915,1,31.9,0.06701075231223515
+1742,565-575 Commonwealth Avenue,1992,1,50.0,0.10902528044656755
+1744,577-599 Commonwealth Avenue (595 Comm Ave),1996,12,17.0,0.18488275352047573
+1745,580 Commonwealth Avenue,2004,4,51.9,0.1295672454003628
+1746,582-596 Commonwealth Avenue (590 Comm / 712 Bea),1983,7,15.5,0.11320235714814697
+1748,605-615 Commonwealth Avenue (2 Silber Way),1981,5,5.1,0.0944480055987539
+1749,610 Beacon Street (30 Bay State Road),1926,1,40.5,0.07266432633710435
+1751,622-640 Commonwealth Avenue,1902,5,18.5,0.10664781539567862
+1753,631-639 Commonwealth Avenue,1957,5,15.5,0.16719866241070072
+1754,642-648 Beacon Street,1990,0,22.9,0.13942917694956847
+1760,6-8 St. Mary's Street,1997,7,26.3,0.1364718854359192
+1762,700 Commonwealth Avenue,1966,13,75.0,0.07607945035523252
+1765,722-728 Commonwealth Avenue,1974,1,69.7,0.06424670735624799
+1770,785 Commonwealth Avenue (1 University Road),1931,5,13.2,0.08897941680960549
+1773,855 Commonwealth Avenue,1919,5,0.5,0.09080835039537105
+1775,871 Commonwealth Avenue,1926,5,7.9,0.06571899870533572
+1776,881 Commonwealth Avenue,1915,14,14.4,0.09030726318012657
+1777,91 Bay State Road,1923,1,45.5,0.08950948800572862
+1778,915 Commonwealth Avenue,2004,15,48.3,0.12068499136478077
+1779,925 Commonwealth Avenue,2004,16,45.7,0.14743014718096947
+1782,983-985 Commonwealth Avenue,1981,0,5.8,0.06936037126715093
